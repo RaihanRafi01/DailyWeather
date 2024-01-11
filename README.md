@@ -19,9 +19,7 @@ Built entirely in Kotlin for a robust and efficient codebase. Leverage the power
 
 How to Get Started :
 
-Clone the Repository :
-
-bash Copy code git clone : [https://github.com/RaihanRafi01/Daily.git](https://github.com/RaihanRafi01/DailyWeather.git) 
+Clone the Repository : bash Copy code git clone : [https://github.com/RaihanRafi01/Daily.git](https://github.com/RaihanRafi01/DailyWeather.git) 
 
 Setup the Development Environment : Ensure you have the latest version of Android Studio installed. Open the project in Android Studio and configure the necessary dependencies.
 
