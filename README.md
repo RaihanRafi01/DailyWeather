@@ -14,3 +14,21 @@ Daily Weather is more than just a weather app; it's a straightforward tool that 
 
 
 ![Screenshot_20240111_171454](https://github.com/RaihanRafi01/DailyWeather/assets/84572587/3e3d9d97-b93c-468e-8842-6898ad6f434a)
+
+Built entirely in Kotlin for a robust and efficient codebase. Leverage the power of Kotlin to ensure a smooth and responsive user experience. 
+
+How to Get Started :
+
+Clone the Repository :
+
+bash Copy code git clone : [https://github.com/RaihanRafi01/Daily.git](https://github.com/RaihanRafi01/DailyWeather.git) 
+
+Setup the Development Environment : Ensure you have the latest version of Android Studio installed. Open the project in Android Studio and configure the necessary dependencies.
+
+Run the App : Build and run the app on your preferred Android device or emulator. 
+
+Explore and Contribute : Explore the codebase and discover the functionalities. Contribute to the project by fixing bugs, adding new features, or improving existing ones. Contributing : Contributions are welcome! Whether you're a seasoned Kotlin developer or just getting started, there are plenty of ways to contribute to Daily App. Check out the contribution guidelines to get started.
+
+Feedback : We value your feedback! If you encounter any issues, have suggestions, or want to share your experience, please open an issue on GitHub.
+
+Thank you for choosing Daily Weather App.
